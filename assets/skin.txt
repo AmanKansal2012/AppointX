@@ -1,0 +1,2 @@
+benign(Normal)
+malignant(Skin-Cancer)
